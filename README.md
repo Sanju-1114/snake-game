@@ -43,6 +43,8 @@ git clone https://github.com/Sanju-1114/snake-game.git
 4. Eat the red food to grow and increase your score.
 5. Restart the game with the "Play Again" button when the snake collides with the wall or itself.
 
+6. If you want to do any changes you are free to do in your local system or to fork and pull request for changes.
+
 ## Technologies Used
 - **HTML5**: For the game structure and canvas.
 - **CSS3**: For styling, including responsive design.
