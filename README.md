@@ -3,6 +3,7 @@
 ## Overview
 This is a simple Snake game built using HTML, CSS, and JavaScript. The game features a snake that moves around a canvas, eats food to grow, and increases the player's score. It includes responsive design and touch controls for mobile devices. This game is part of the GameHub project, which may include additional games.
 
+
 ## Features
 - Classic Snake gameplay with arrow key controls.
 - Touch swipe controls for mobile devices.
