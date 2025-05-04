@@ -53,6 +53,8 @@ git clone https://github.com/Sanju-1114/snake-game.git
 - **JavaScript**: For game logic and interactivity.
 - **Bootstrap**: For additional styling and responsiveness.
 
+
+
 ## 📦 Dependencies
 
 - [Bootstrap 5](https://getbootstrap.com/)  
