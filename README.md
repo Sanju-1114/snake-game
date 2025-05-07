@@ -14,6 +14,10 @@ This is a simple Snake game built using HTML, CSS, and JavaScript. The game feat
 
 - Play and enjoy the game.
 
+## Features that you can add in this
+- Create the controls which can work with A S W D  in place of Arrow keys.
+- You can change the board with your choice which looks good to you.
+
 ## Program Structure
 The Snake game is part of the GameHub project, and its files are organized as follows in a hierarchical structure:
 
