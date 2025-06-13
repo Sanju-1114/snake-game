@@ -61,7 +61,6 @@ git clone https://github.com/Sanju-1114/snake-game.git
 - **Bootstrap**: For additional styling and responsiveness.
 
 
-
 ## 📦 Dependencies
 
 - [Bootstrap 5](https://getbootstrap.com/)  
