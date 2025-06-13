@@ -12,6 +12,7 @@ This is a simple Snake game built using HTML, CSS, and JavaScript. The game feat
 - Play Again button to restart the game.
 - Styled with Bootstrap and custom CSS for a modern look.
 
+
 - Play and enjoy the game.
 
 ## Features that you can add in this
