@@ -23,12 +23,14 @@ This is a simple Snake game built using HTML, CSS, and JavaScript. The game feat
 ## Program Structure
 The Snake game is part of the GameHub project, and its files are organized as follows in a hierarchical structure:
 
+```
 Snake-game/
 ├── snake.html             # HTML structure for Snake game
 ├── snake.js               # Game logic for Snake
 ├── snake.css              # Game-specific styles for Snake
 ├── styles.css             # Shared styles across games
 └── logo.png               # GameHub logo
+```
 
 ## Files
 - `snake.html`: The main HTML file containing the game structure and layout.
