@@ -72,12 +72,15 @@ git clone https://github.com/Sanju-1114/snake-game.git
 
 - [Bootstrap 5](https://getbootstrap.com/)  
 - [Font Awesome 6](https://fontawesome.com/)
+
 ---
+
 ## Contact
 
 For issues or suggestions, contact: [support@gamehub.com](mailto:support@gamehub.com)
 
 This gmail is not real 
+
 ---
 ## License
 © 2025 GameHub. All rights reserved.
