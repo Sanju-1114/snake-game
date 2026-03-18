@@ -83,7 +83,6 @@ This gmail is not real
 
 ---
 ## License
-© 2025 GameHub. All rights reserved.
 
 
 
